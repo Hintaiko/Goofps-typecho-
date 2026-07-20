@@ -88,13 +88,9 @@ html[data-theme="dark"] #goofps {
 
 ---
 
-## 技术细节
+## 预览
 
-- **FPS 统计**：基于 `requestAnimationFrame` 精确计算，不受刷新频率设置影响。
-- **后台省电**：页面不可见时自动暂停统计，切换回标签页后自动恢复。
-- **性能**：`contain: layout style paint` 限制重绘范围，`pointer-events: none` 不干扰页面交互。
-- **无障碍**：使用 `role="status"` 和 `aria-label` 标注，支持屏幕阅读器。
-- **打印**：打印时自动隐藏 FPS 指示器。
+前往我的blog https:// ikovo .cyou/ 查看效果
 
 ---
 
