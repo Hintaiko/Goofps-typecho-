@@ -105,6 +105,3 @@ Goofps/
 └── Plugin.php    # 插件主文件
 ```
 
-## 许可
-
-MIT License
